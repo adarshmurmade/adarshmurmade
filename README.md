@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Adarsh Ganesh Murmade!  
 
-🚀 **Frontend Developer | BCA Student | Tech Enthusiast**  
+🚀 **MCA Student | MERN Stack Developer | React.js | Node.js | Express.js | MongoDB | Building Full-Stack Web Applications**  
 
 🔹 Passionate about crafting beautiful and efficient web experiences using **HTML, CSS, JavaScript, and React**.  
 🔹 Skilled in **C & C++** with a strong foundation in programming and problem-solving.  
